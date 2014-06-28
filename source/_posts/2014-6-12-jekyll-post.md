@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 利用GitHub Pages和Jekyll搭建个人主页
+date: 2014-06-12 18:59:23 
 ---
 
 下面，我举一个实例，演示如何在github上搭建blog，你可以跟着一步步做。为了便于理解，这个blog只有最基本的功能。
