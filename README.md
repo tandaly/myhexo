@@ -17,4 +17,7 @@ hexo generate
 
 ---
 ### 参考
-[如何搭建一个独立博客——简明Github Pages与Hexo教程](http://jianshu.io/p/05289a4bc8b2)
+
+- [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://jianshu.io/p/05289a4bc8b2)
+
+- [使用hexo搭建博客](http://yangjian.me/workspace/building-blog-with-hexo/)
