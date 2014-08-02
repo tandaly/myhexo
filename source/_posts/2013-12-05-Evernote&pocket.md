@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Evernote 个人知识管理系统
-date: 2013-12-05 22:28:38 
 ---
 
 ###从云笔记到 Evernote 

@@ -1,0 +1,29 @@
+date: 2014-08-01 21:38:03.005
+argv: node C:\Users\cpeam\AppData\Roaming\npm\node_modules\hexo\bin\hexo clean
+os: Windows_NT 6.2.9200 win32 x64
+version:
+  hexo: 2.6.3
+  http_parser: 1.0
+  node: 0.10.28
+  v8: 3.14.5.9
+  ares: 1.9.0-DEV
+  uv: 0.10.27
+  zlib: 1.2.3
+  modules: 11
+  openssl: 1.0.1g
+---
+
+[debug] 21:38:01.748 Processed: draft.md
+[debug] 21:38:01.748 Processed: page.md
+[debug] 21:38:01.748 Processed: post.md
+[debug] 21:38:01.748 Processed: photo.md
+[debug] 21:38:01.748 Config file loaded
+[debug] 21:38:01.749 Version info checked successfully
+[debug] 21:38:01.767 Loading database.
+[debug] 21:38:01.804 Plugin loaded successfully: hexo-renderer-ejs
+[debug] 21:38:01.820 Plugin loaded successfully: hexo-renderer-marked
+[debug] 21:38:01.955 Plugin loaded successfully: hexo-renderer-stylus
+[debug] 21:38:01.956 Script load successfully: fancybox.js
+[info] 21:38:01.958 Deleted cache file
+[error] 21:38:02.997 Error: ENOTEMPTY, rmdir 'C:\Users\cpeam\Documents\GitHub\tandaly.github.com'
+Error: ENOTEMPTY, rmdir 'C:\Users\cpeam\Documents\GitHub\tandaly.github.com'

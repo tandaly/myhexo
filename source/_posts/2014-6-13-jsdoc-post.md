@@ -41,9 +41,9 @@ npm install git+https://github.com/jsdoc3/jsdoc.git
 jsdoc yourJavaScriptFile.js
 ```
 
-jsdoc默认输出文档文件的目录是out，你也可以通过***--destination***或者(***-d***)参数命令指定其他输出目录
+jsdoc默认输出文档文件的目录是out，你也可以通过```--destination```或者(```-d```)参数命令指定其他输出目录
 
-运行***jsdoc --help ***可以查看命令行参数清单
+运行```jsdoc --help ```可以查看命令行参数清单
 
 
 ---
